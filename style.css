@@ -1,0 +1,12 @@
+body {
+    background-color: darkgreen;
+    text-align: center;
+}
+
+#para1 {
+    font-size: 20px;
+    color: blue;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 100;
+}
